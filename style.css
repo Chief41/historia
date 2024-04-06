@@ -335,9 +335,24 @@ footer {
 
 .fa-facebook {
   color: blue;
-  background: black;
   border-radius: 150px;
   text-align: center;
   
+}
+
+.fa-instagram {
+  color: rgb(209, 63, 156)
+}
+
+.fa-discord {
+  color: rgb(70, 70, 215);
+}
+
+.fa-linkedin {
+  color: blue;
+}
+
+.blockLogo {
+  margin-top: 15px;
 }
 
