@@ -51,6 +51,23 @@ header li:hover {
   color:#bb9105;
 }
 
+header a {
+  text-decoration: none;
+  color: #232323;
+  margin-left: 25px;
+  list-style: none;
+  cursor: pointer;
+  transition : 0.6s;
+}
+
+header a:hover {
+  
+  font-size: 19.6px;
+   color:#bb9105;
+ }
+
+
+
 
 .listOfPerso {
   position: fixed;
